@@ -1,0 +1,23 @@
+{
+  "name": "projeto-cypress",
+  "version": "1.0.0",
+  "description": "Este é um exemplo de teste automatizado com Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoaoGuilherme08/Cypress-Testes.git"
+  },
+  "keywords": [],
+  "author": "João Cobo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoaoGuilherme08/Cypress-Testes/issues"
+  },
+  "homepage": "https://github.com/JoaoGuilherme08/Cypress-Testes#readme",
+  "dependencies": {
+    "cypress": "^9.2.0"
+  }
+}
