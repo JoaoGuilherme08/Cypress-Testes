@@ -116,3 +116,5 @@ Cypress.Commands.add("api_requestContract", (accessToken) => {
     cy.log(JSON.stringify(res));
   });
 });
+
+//Feito por João

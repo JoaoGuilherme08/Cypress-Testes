@@ -22,3 +22,5 @@ describe("Criar Location", () => {
     cy.get("#btn-location-save").click();
   });
 });
+
+//Feito por João

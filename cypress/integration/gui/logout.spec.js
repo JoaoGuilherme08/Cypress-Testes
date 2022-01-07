@@ -11,3 +11,5 @@ describe("Realizar logout", () => {
     cy.contains("Logout").click({ force: true });
   });
 });
+
+//Feito por João

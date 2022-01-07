@@ -15,3 +15,5 @@ describe("Criar customer", () => {
     cy.get("#customer-btn-save").click();
   });
 });
+
+//Feito por João

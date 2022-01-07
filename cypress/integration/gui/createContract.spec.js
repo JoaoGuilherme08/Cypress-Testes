@@ -66,3 +66,5 @@ describe("Criar customer", () => {
     cy.get(".flex-row > .v-btn--has-bg").click();
   });
 });
+
+//Feito por João
